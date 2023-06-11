@@ -1,5 +1,4 @@
 
-Sure! Here are the commands in a markdown format with explanations and an easy-to-copy terminal view:
 
 = List of commands
 
