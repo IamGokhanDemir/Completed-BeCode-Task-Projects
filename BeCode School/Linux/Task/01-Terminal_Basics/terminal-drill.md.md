@@ -144,5 +144,3 @@ CTRL+R
 Pressing `CTRL+R` again and typing keywords from your last command will allow the terminal to find and display that command. Press Enter to execute it.
 
 Once you have completed these steps, you will have practiced various commands for navigating the file system, creating files and folders, editing files, and using some useful shortcuts. Keep exploring and experimenting with the terminal to become more comfortable and proficient with its commands.
-
-[Back to the fields](/1.The-Fields/)
