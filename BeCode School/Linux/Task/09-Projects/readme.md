@@ -37,8 +37,6 @@ The project will be evaluated based on the quality of documentation, successful 
 
 Feel free to explore and expand upon the setup by adding more functionality or experimenting with different configurations. The virtual machines can serve as a learning environment for further exploration of Linux and network services.
 
-If you have any questions or need assistance, please don't hesitate to reach out to the project contributors via the provided contact information.
-
 ---
 
 Please note that this is a general template, and you should personalize it by adding specific details about your project, the team involved, and any additional information relevant to your setup and accomplishments.
