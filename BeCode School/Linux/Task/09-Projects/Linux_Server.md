@@ -38,41 +38,113 @@
      ```
 
      - The `apt` command is used to manage software packages in Ubuntu. We use it to install the required services.
+     - 
+### Step 2: Configure the Master DNS Server
 
-2. Configure the DHCP service:
-   - Open the DHCP configuration file using a text editor:
+#### On Ubuntu
 
-     ```bash
-     sudo nano /etc/dhcp/dhcpd.conf
-     ```
+1. Open the terminal and create the forward zone file:
 
-   - Add the following lines at the end of the file:
-
-     To configure a DHCP subnet with specific settings, use the following configuration block:
-
+```bash
+sudo cp /etc/bind/db.local /etc/bind/forward.computingforgeeks.local.db
+sudo vim /etc/bind/forward.computingforgeeks.local.db
 ```
-authoritative;
+
+**Explanation:** The first command copies the sample zone lookup file, and the second command opens it for editing.
+
+2. Modify the forward zone file:
+
+```text
+$TTL    604800
+@       IN      SOA     ns1.computingforgeeks.local. root.ns1.computingforgeeks.local. (
+                              3         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+
+;Name Server Information
+@        IN      NS      ns1.computingforgeeks.local.
+
+;IP address of Name Server
+ns1     IN      A       192.168.1.12
+
+;Mail Exchanger
+computingforgeeks.local.   IN     MX   10   mail.computingforgeeks.local.
+
+;A – Record HostName To IP Address
+www     IN       A      192.168.1.13
+mail    IN       A      192.168.1.14
+
+;CNAME record
+ftp     IN      CNAME   www.computingforgeeks.local.
+```
+
+**Explanation:** This configuration file sets up the forward zone for the "computingforgeeks.local" domain, specifying the name server, mail exchanger, A records, and CNAME record.
+
+3. Save and exit the file.
+
+4. Create the reverse zone file:
+
+```bash
+sudo cp /etc/bind/db.127 /etc/bind/reverse.computingforgeeks.local.db
+sudo vim /etc/bind/reverse.computingforgeeks.local.db
+```
+
+**Explanation:** The first command copies the sample reverse zone file, and the second command opens it for editing.
+
+5. Modify the reverse zone file:
+
+```text
+$TTL    604800
+@       IN      SOA     computingforgeeks.local. root.computingforgeeks.local. (
+                              3         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+
+;Name Server Information
+@       IN      NS     ns1.computingforgeeks.local.
+ns1     IN      A       192.168.1.12
+
+;Reverse lookup for Name Server
+12      IN      PTR    ns1.computingforgeeks.local.
+
+;PTR Record IP address to HostName
+13     IN
+
+      PTR    www.computingforgeeks.local.
+14     IN      PTR    mail.computingforgeeks.local.
+```
+
+**Explanation:** This configuration file sets up the reverse zone for the "computingforgeeks.local" domain, specifying the name server, PTR records for IP addresses, and reverse lookup for the name server.
+
+6. Save and exit the file.
+2. Modify the DHCP configuration file:
+
+```text
 subnet 192.168.1.0 netmask 255.255.255.0 {
-    range 192.168.1.100 192.168.1.200;
-    option domain-name "internal.demo";
-    option domain-name-servers 192.168.1.10;
+  range 192.168.1.100 192.168.1.200;
+  option routers 192.168.1.1;
+  option domain-name-servers 192.168.1.12;
+  option domain-name "computingforgeeks.local";
+  option broadcast-address 192.168.1.255;
+  default-lease-time 600;
+  max-lease-time 7200;
 }
+
 ```
 
-Explanation of the configuration block:
+**Explanation:** This configuration file sets up the DHCP subnet, IP range, router, DNS server, domain name, and lease times.
 
-- `authoritative;`: This statement specifies that the DHCP server is the final authority for providing IP addresses in this subnet.
+3. Save and exit the file.
 
-- `subnet 192.168.1.0 netmask 255.255.255.0`: Defines the subnet and its corresponding netmask. In this example, the subnet is 192.168.1.0 with a netmask of 255.255.255.0, which means the network portion is `192.168.1` and the host portion can range from 0 to 255.
+4. Restart the DHCP service:
 
-- `range 192.168.1.100 192.168.1.200;`: Specifies the range of IP addresses that can be assigned by the DHCP server within this subnet. In this case, the range is from 192.168.1.100 to 192.168.1.200.
-
-- `option domain-name "internal.demo";`: Sets the domain name for the subnet to "internal.demo". This option is used to provide the domain name to the DHCP clients.
-
-- `option domain-name-servers 192.168.1.10;`: Specifies the IP address of the DNS server to be used by the DHCP clients in this subnet. In this example, the DNS server's IP address is set to 192.168.1.10.
-
-By configuring these settings in the DHCP server, clients within the specified subnet will be assigned IP addresses from the defined range, with the provided domain name and DNS server.
-
+```bash
+sudo systemctl restart isc-dhcp-server
+```
      ```
 To create a sample HTML page and verify the HTTP server is working, follow these steps:
 
@@ -190,5 +262,99 @@ If the HTTP server is working correctly, you should see the text "Hello, World!"
 3. Configure separate partition for /home folder (optional):
    - This step requires advanced disk partitioning knowledge, and it's optional for the demonstration.
 
+
 ---
 
+## Step-by-Step Guide: Setting up a DNS Server with BIND on Ubuntu and Kali Linux
+
+### Prerequisites
+- Ubuntu and Kali Linux installed in VirtualBox.
+- Ubuntu IP Address: 192.168.1.12
+- Kali Linux IP Address: 192.168.1.13
+- Subnet Mask: 255.255.255.0
+
+### Step 1: Install BIND DNS Server
+
+On both Ubuntu and Kali Linux, open the terminal and execute the following commands:
+
+```bash
+sudo apt update -y
+sudo apt install -y bind9 bind9utils bind9-doc dnsutils
+```
+
+**Explanation:** These commands update the package repositories and install the BIND DNS server and its utilities.
+
+
+
+7. Edit the main BIND configuration file:
+
+```bash
+sudo vim /etc/bind/named.conf.local
+```
+
+8. Add the following lines at the end of the file:
+
+```text
+zone "computingforgeeks.local" {
+    type master;
+    file "/etc/bind/forward.computingforgeeks.local.db";
+};
+
+zone "1.168.192.in-addr.arpa" {
+    type master;
+    file "/etc/bind/reverse.computingforgeeks.local.db";
+};
+```
+
+**Explanation:** These lines specify the zones and their corresponding configuration files.
+
+9. Save and exit the file.
+
+10. Restart the BIND service:
+
+```bash
+sudo systemctl restart bind9
+```
+
+#### On Kali Linux
+
+Repeat Steps 2.1 to 2.10 from the Ubuntu configuration.
+
+### Step 3: Configure DHCP
+
+#### On Ubuntu
+
+1. Edit the DHCP configuration file:
+
+```bash
+sudo vim /etc/dhcp/dhcpd.conf
+```
+
+
+
+#### On Kali Linux
+
+Repeat Steps 3.1 to 3.4 from the Ubuntu configuration.
+
+### Step 4: Test the DNS Server
+
+1. On both Ubuntu and Kali Linux, open the terminal and install `dnsutils`:
+
+```bash
+sudo apt install -y dnsutils
+```
+
+2. Verify the DNS resolution by executing the following commands:
+
+```bash
+nslookup www.computingforgeeks.local
+nslookup 192.168.1.12
+```
+
+**Explanation:** These commands check the DNS resolution for the configured domain name and IP address.
+
+---
+
+Please note that while this guide provides detailed steps for setting up a DNS server with BIND, there may be slight variations depending on the specific versions of Ubuntu, Kali Linux, and BIND DNS server that you are using. Make sure to adapt the commands and configurations if needed.
+
+I hope this guide helps you in setting up your DNS server. Let me know if you have any further questions!
