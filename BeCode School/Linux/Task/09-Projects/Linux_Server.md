@@ -50,9 +50,13 @@
 
      ```bash
      subnet 192.168.1.0 netmask 255.255.255.0 {
-       range 192.168.1.100 192.168.1.200;
-       option routers 192.168.1.1;
-     }
+       rauthoritative;   
+subnet 192.168.1.0 netmask 255.255.255.0 {
+    range 192.168.1.100 192.168.1.200;
+    option domain-name "internal.demo";
+    option domain-name-servers 192.168.1.10;
+}
+
      ```
 To create a sample HTML page and verify the HTTP server is working, follow these steps:
 
