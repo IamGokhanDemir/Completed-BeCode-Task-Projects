@@ -54,7 +54,26 @@
        option routers 192.168.1.1;
      }
      ```
+To create a sample HTML page and verify the HTTP server is working, follow these steps:
 
+1. Open a terminal or command prompt.
+
+2. Execute the following commands:
+   ```bash
+   sudo su
+   echo "Hello, World!" > /var/www/html/index.html
+   exit
+   ```
+
+   The first command (`sudo su`) switches to the root user to gain necessary permissions. The second command creates an HTML file named `index.html` in the `/var/www/html` directory and writes the content "Hello, World!" into it. The third command (`exit`) exits the root user session.
+
+3. Open a web browser on the workstation.
+
+4. Enter the server's IP address in the browser's address bar. For example, if the server's IP address is 192.168.1.1, enter `http://192.168.1.1`.
+
+5. Press Enter to load the web page.
+
+If the HTTP server is working correctly, you should see the text "Hello, World!" displayed in the web browser. This confirms that the server is successfully serving the HTML page.
 3. Configure the DNS service:
    - Open the BIND configuration file using a text editor:
 
