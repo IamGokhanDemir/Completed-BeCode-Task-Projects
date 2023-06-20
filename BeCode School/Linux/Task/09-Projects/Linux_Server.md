@@ -48,14 +48,30 @@
 
    - Add the following lines at the end of the file:
 
-     ```bash
-     subnet 192.168.1.0 netmask 255.255.255.0 {
-       rauthoritative;   
+     To configure a DHCP subnet with specific settings, use the following configuration block:
+
+```
+authoritative;
 subnet 192.168.1.0 netmask 255.255.255.0 {
     range 192.168.1.100 192.168.1.200;
     option domain-name "internal.demo";
     option domain-name-servers 192.168.1.10;
 }
+```
+
+Explanation of the configuration block:
+
+- `authoritative;`: This statement specifies that the DHCP server is the final authority for providing IP addresses in this subnet.
+
+- `subnet 192.168.1.0 netmask 255.255.255.0`: Defines the subnet and its corresponding netmask. In this example, the subnet is 192.168.1.0 with a netmask of 255.255.255.0, which means the network portion is `192.168.1` and the host portion can range from 0 to 255.
+
+- `range 192.168.1.100 192.168.1.200;`: Specifies the range of IP addresses that can be assigned by the DHCP server within this subnet. In this case, the range is from 192.168.1.100 to 192.168.1.200.
+
+- `option domain-name "internal.demo";`: Sets the domain name for the subnet to "internal.demo". This option is used to provide the domain name to the DHCP clients.
+
+- `option domain-name-servers 192.168.1.10;`: Specifies the IP address of the DNS server to be used by the DHCP clients in this subnet. In this example, the DNS server's IP address is set to 192.168.1.10.
+
+By configuring these settings in the DHCP server, clients within the specified subnet will be assigned IP addresses from the defined range, with the provided domain name and DNS server.
 
      ```
 To create a sample HTML page and verify the HTTP server is working, follow these steps:
