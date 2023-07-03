@@ -4,10 +4,10 @@
 **From:** `Tinder`
 **Email Address:** `gq@80-78-255-128.cloudvps.regruhosting.ru`
 **Reply-To:** `gq@80-78-255-128.cloudvps.regruhosting.ru`
-**Brand Impersonated:** Tinder
+**Brand Impersonated:** `Tinder`
 **Originating IP:** `80[.]78[.]255[.]128`
-**Domain of Interest:** `gq[at]80-78-255-128[.]cloudvps[.]regruhosting[.]ru
-**Shortened URL:** `blog[.]tulingxueyuan[.]cn/contradictedqm[.]php?utm-campaign=tpdjuresn`
+**Domain of Interest:** `gq[at]80-78-255-128[.]cloudvps[.]regruhosting[.]ru`
+**Shortened URL:** `blog[.]tulingxueyuan[.]cn/contradictedqm[.]php?utm-campaign=tpdjuresn` 
 **Phishing Assessment:** `Likely Phishing`
 
 ---
