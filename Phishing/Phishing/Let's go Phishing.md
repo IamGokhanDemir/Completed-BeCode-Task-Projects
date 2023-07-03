@@ -47,5 +47,6 @@ To use ZPhisher in the Linux terminal, follow these steps:
 
 8. **Capture the Credentials**: When the target accesses the phishing page and enters their login credentials, ZPhisher will capture the entered information and display it in the terminal.
 
-```Disclaimer: This  is a fictional example and does not promote or encourage any illegal or unethical activities, including phishing. It is intended for educational purposes only to raise awareness about the risks associated with phishing and the importance of ethical conduct in cybersecurity.
+```
+Disclaimer: This  is a fictional example and does not promote or encourage any illegal or unethical activities, including phishing. It is intended for educational purposes only to raise awareness about the risks associated with phishing and the importance of ethical conduct in cybersecurity.
 ```
