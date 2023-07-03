@@ -2,11 +2,17 @@
 ## Report: Suspicious Email Analysis
 
 **From:**```PayPal```
+
 **Email Address:** ```servive@paypal.be```
+
 **Reply-To:** ```none``` 
+
 **Brand Impersonated:** `PayPal`  
+
 **Originating IP:** ```66[.]211[.]170[.]87```  
+
 **Domain of Interest:** ```paypal[.]be```  
+
 **Shortened URL:**  ```HXXPS[://][.]paypal[.]com/cgp/app-redirect?intent=xo_email_txn_details&src=rt000016_cta&ref_id=2t886045u28581329&url_clicked_desc=getdetailsbtn&v=1&utm_source=unp&utm_medium=email&utm_campaign=rt000016&utm_unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&ppid=rt000016&cnac=be&rsta=fr_fr%28fr-be%29&cust=5u9wsht7zxc7c&unptid=da14b2e8-c737-11ed-a0a9-3cecef6affec&calc=7c0b8b9b23d6b&unp_tpcid=email-receipt-xclick-payment&page=main%3aemail%3art000016&pgrp=main%3aemail&e=cl&mchn=em&s=ci&mail=sys&appversion=1.153.0&xt=104038%2c127632```
 
 **Phishing Assessment:** ```Likely Phishing```
