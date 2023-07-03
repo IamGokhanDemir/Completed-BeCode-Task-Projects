@@ -15,6 +15,7 @@ With the phishing page ready, my next step was to send a spear-phishing email di
 
 Upon clicking the link in the spear-phishing email, Bob would be directed to the Instagram phishing page I created. Unaware of the deception, he would see what appears to be the genuine login page. Believing it to be legitimate, Bob would unwittingly enter his Instagram username and password, which would then be captured by the phishing page.
 
+
 ```
 Ethical Considerations
 
