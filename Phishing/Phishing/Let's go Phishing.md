@@ -15,11 +15,10 @@ With the phishing page ready, my next step was to send a spear-phishing email di
 
 Upon clicking the link in the spear-phishing email, Bob would be directed to the Instagram phishing page I created. Unaware of the deception, he would see what appears to be the genuine login page. Believing it to be legitimate, Bob would unwittingly enter his Instagram username and password, which would then be captured by the phishing page.
 
-
 ```
 Ethical Considerations
 
- It is crucial to emphasize that phishing is a highly unethical and illegal activity. It infringes upon individuals privacy and compromises their online security. Engaging in phishing attacks not only violates the terms of service of various online platforms but also exposes one to legal consequences. It is essential to always respect others privacy, prioritize their digital well-being, and use our skills and knowledge responsibly and ethically.
+It is crucial to emphasize that phishing is a highly unethical and illegal activity. It infringes upon individuals privacy and compromises their online security. Engaging in phishing attacks not only violates the terms of service of various online platforms but also exposes one to legal consequences. It is essential to always respect others privacy, prioritize their digital well-being, and use our skills and knowledge responsibly and ethically.
 ```
 
 
