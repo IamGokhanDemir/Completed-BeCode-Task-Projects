@@ -10,10 +10,15 @@ Using ZPhisher, I crafted a phishing page that closely resembled the legitimate 
 ### 📧 Launching a Spear-Phishing Email
 
 With the phishing page ready, my next step was to send a spear-phishing email directly to Bob. A spear-phishing email is a targeted email that appears legitimate and entices the recipient to click on a link or provide sensitive information. In this case, I crafted an email that would catch Bob's attention, using bull terrier-related content or any other personalized approach to increase the likelihood of him clicking the provided link.
+![image](https://github.com/IamGokhanDemir/Completed-BeCode-Task-Projects/assets/77242425/d5ec514f-ec57-4852-9ee8-90e9bfdaf880)
+
 
 ### 🕵️‍♂️ Tricking Bob to Enter Credentials
 
 Upon clicking the link in the spear-phishing email, Bob would be directed to the Instagram phishing page I created. Unaware of the deception, he would see what appears to be the genuine login page. Believing it to be legitimate, Bob would unwittingly enter his Instagram username and password, which would then be captured by the phishing page.
+![image](https://github.com/IamGokhanDemir/Completed-BeCode-Task-Projects/assets/77242425/70579b94-46ed-4bdc-892f-683ae0682d48)
+![image](https://github.com/IamGokhanDemir/Completed-BeCode-Task-Projects/assets/77242425/97eb6460-d1d3-4c84-8823-08a81e5f383d)
+
 
 
 # What is ZPhisher and How to Use It in the Linux Terminal
