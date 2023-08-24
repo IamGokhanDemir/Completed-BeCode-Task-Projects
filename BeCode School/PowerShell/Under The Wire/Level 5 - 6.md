@@ -1,4 +1,5 @@
 
+
 The password for Century6 is the short name of the domain in which this system resides in **PLUS** the name of the file on the desktop.  
   
 **NOTE:**  

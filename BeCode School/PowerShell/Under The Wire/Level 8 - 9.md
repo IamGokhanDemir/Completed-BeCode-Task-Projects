@@ -1,5 +1,6 @@
 
 
+
 The password for Century9 is the number of unique entries within the file on the desktop.
 
 ## Solution

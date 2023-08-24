@@ -1,4 +1,5 @@
 
+
 The password for Century3 is the combination of the name of a specific built-in cmdlet in PowerShell and the name of a file located on the desktop.
 
 Here are the rules for forming the password:
@@ -75,4 +76,3 @@ Invoke-WebRequest -Uri "https://example.com" -Method GET
      - `Cookies`: Any cookies sent by the server as part of the response.
 
 So, in the example we provided, the `Invoke-WebRequest` command is used to send an HTTP GET request to `"https://example.com"`. It retrieves the content of the web page and returns the response from the server, which can be accessed through the properties of the response ob
-

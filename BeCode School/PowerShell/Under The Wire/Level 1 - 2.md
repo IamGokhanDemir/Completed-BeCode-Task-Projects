@@ -1,4 +1,5 @@
 
+
 The password for Century2 is the build version of the instance of PowerShell installed on this system.
 
 **NOTE:**
@@ -63,5 +64,4 @@ The code `$PSVersionTable` is used in PowerShell to retrieve information about t
 3. You can access individual properties of `$PSVersionTable` by using dot notation, for example: `$PSVersionTable.PSVersion` will give you the PowerShell version.
 
 The logic behind using `$PSVersionTable` is to retrieve information about the current PowerShell environment, including the version and related details. This information can be useful for script compatibility checks or to determine if certain features are available in the current PowerShell version.
-
 
