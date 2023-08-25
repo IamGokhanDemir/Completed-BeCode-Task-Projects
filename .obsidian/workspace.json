@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
+                "file": "BeCode School/Programming/Database/SQL/6. Create.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
+                "file": "BeCode School/Programming/Database/SQL/6. Create.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
+                "file": "BeCode School/Programming/Database/SQL/6. Create.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md"
+                "file": "BeCode School/Programming/Database/SQL/6. Create.md"
               }
             }
           }
@@ -163,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9846307949695679",
+  "active": "c0c7186310e015b6",
   "lastOpenFiles": [
+    "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
     "README.md",
     "Context/spacesLastSync.log",
     "Context",
