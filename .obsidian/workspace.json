@@ -72,9 +72,17 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "9846307949695679",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -157,6 +165,8 @@
   },
   "active": "027bccf1df61af49",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "BeCode School/Programming/Database/SQL/8. Drop.md",
     "BeCode School/Programming/Database/SQL/6. Create.md",
     "BeCode School/Programming/Database/SQL/7. Update.md",
