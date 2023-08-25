@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasRoad",
+      "SiWebflow",
       "RiMiniProgramLine",
       "SiPowershell",
-      "TiFishHook",
-      "FabAngrycreative",
-      "FasRoad"
+      "TiFishHook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +27,10 @@
   "BeCode School/Linux/Task": "RiTaskLine",
   "BeCode School/Microsoft Azure": "SiMicrosoftazure",
   "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity": "FasRoad",
-  "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra": "FasRoad",
+  "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra": {
+    "iconName": "FasRoad",
+    "inheritanceIcon": "FasRoad"
+  },
   "BeCode School/Microsoft Azure/3. Describe the capabilities of Microsoft security solutions": "FasRoad",
   "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions": "FasRoad",
   "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity": "FasRoad",
@@ -35,7 +38,7 @@
   "BeCode School/PowerShell": "SiPowershell",
   "BeCode School/Programming": "RiMiniProgramLine",
   "BeCode School/WebDev": {
-    "iconName": null,
+    "iconName": "SiWebflow",
     "inheritanceIcon": "SiWebflow"
   }
 }
