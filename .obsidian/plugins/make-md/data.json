@@ -48,7 +48,8 @@
   "expandedSpaces": [
     "/",
     null,
-    "Digital Shield"
+    "Digital Shield",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -79,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1692968344636,
+  "spacesAutoBackupLast": 1692971813748,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
