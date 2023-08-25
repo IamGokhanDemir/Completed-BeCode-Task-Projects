@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "027bccf1df61af49",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6384cccb076003b5",
+  "active": "027bccf1df61af49",
   "lastOpenFiles": [
     "BeCode School/Programming/Database/SQL/8. Drop.md",
     "BeCode School/Programming/Database/SQL/6. Create.md",
