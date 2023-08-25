@@ -37,7 +37,12 @@
   "expandedFolders": {
     "Digital Shield": [
       "Methondology",
-      "BeCode School"
+      "BeCode School/Linux",
+      "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity",
+      "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra",
+      "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD",
+      "BeCode School",
+      "BeCode School/Programming"
     ]
   },
   "expandedSpaces": [
