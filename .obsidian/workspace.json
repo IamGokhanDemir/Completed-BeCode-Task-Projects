@@ -146,12 +146,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0c7186310e015b6",
+  "active": "28425694327794eb",
   "lastOpenFiles": [
     "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
     "README.md",
