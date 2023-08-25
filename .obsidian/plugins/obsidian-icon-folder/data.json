@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiTaskLine",
       "FabLinux",
       "FasSchool"
     ],
@@ -20,5 +21,6 @@
     "iconInTabsEnabled": false
   },
   "BeCode School": "FasSchool",
-  "BeCode School/Linux": "FabLinux"
+  "BeCode School/Linux": "FabLinux",
+  "BeCode School/Linux/Task": "RiTaskLine"
 }
