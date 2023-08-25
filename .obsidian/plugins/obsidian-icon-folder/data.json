@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiMicrosoftazure",
       "RiTaskLine",
       "FabLinux",
       "FasSchool"
@@ -22,5 +23,6 @@
   },
   "BeCode School": "FasSchool",
   "BeCode School/Linux": "FabLinux",
-  "BeCode School/Linux/Task": "RiTaskLine"
+  "BeCode School/Linux/Task": "RiTaskLine",
+  "BeCode School/Microsoft Azure": "SiMicrosoftazure"
 }
