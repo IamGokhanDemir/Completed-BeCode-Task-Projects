@@ -38,9 +38,7 @@
     "Digital Shield": [
       "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD",
       "BeCode School",
-      "BeCode School/Microsoft Azure",
-      "Methondology",
-      "BeCode School/Phishing"
+      "Methondology"
     ]
   },
   "expandedSpaces": [
@@ -78,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1692988546585,
+  "spacesAutoBackupLast": 1692989098015,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
