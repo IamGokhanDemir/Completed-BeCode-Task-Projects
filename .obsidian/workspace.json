@@ -4,51 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0606a5ce147f84d9",
+        "id": "a2312e525e5764fe",
         "type": "tabs",
         "children": [
           {
-            "id": "c0c7186310e015b6",
+            "id": "47df4b021cb3f2e8",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "BeCode School/Microsoft Azure"
-              }
-            }
-          },
-          {
-            "id": "11991fec0acd8df8",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity"
-              }
-            }
-          },
-          {
-            "id": "4a1e169c69c0fdb8",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra"
-              }
-            }
-          },
-          {
-            "id": "6549ddfe014688ea",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
