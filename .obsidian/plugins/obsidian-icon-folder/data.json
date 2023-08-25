@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasRoad",
       "SiMicrosoftazure",
       "RiTaskLine",
       "FabLinux",
@@ -24,5 +25,8 @@
   "BeCode School": "FasSchool",
   "BeCode School/Linux": "FabLinux",
   "BeCode School/Linux/Task": "RiTaskLine",
-  "BeCode School/Microsoft Azure": "SiMicrosoftazure"
-}
+  "BeCode School/Microsoft Azure": "SiMicrosoftazure",
+  "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity": "FasRoad",
+  "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra": "FasRoad",
+  "BeCode School/Microsoft Azure/3. Describe the capabilities of Microsoft security solutions": "FasRoad",
+  "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions": "FasRoad",

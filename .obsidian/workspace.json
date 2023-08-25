@@ -16,8 +16,39 @@
                 "contextPath": "BeCode School/Microsoft Azure"
               }
             }
+          },
+          {
+            "id": "11991fec0acd8df8",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity"
+              }
+            }
+          },
+          {
+            "id": "4a1e169c69c0fdb8",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra"
+              }
+            }
+          },
+          {
+            "id": "6549ddfe014688ea",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,6 +191,8 @@
   },
   "active": "9846307949695679",
   "lastOpenFiles": [
+    "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra.md",
+    "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/1. Describe the concepts of security  compliance  and identity.md",
     "BeCode School/Microsoft Azure/Microsoft Azure.md",
     "BeCode School/Programming/Database/SQL/6. Create.md",
     "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
