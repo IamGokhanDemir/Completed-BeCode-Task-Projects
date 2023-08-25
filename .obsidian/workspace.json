@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2312e525e5764fe",
+        "id": "b9f9a25cdb12eb1b",
         "type": "tabs",
         "children": [
           {
-            "id": "47df4b021cb3f2e8",
+            "id": "09cfddf801a2c0a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9846307949695679",
+  "active": "09cfddf801a2c0a9",
   "lastOpenFiles": [
+    "BeCode School/Untitled.canvas",
     "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/1. Describe the concepts of security  compliance  and identity.md",
     "BeCode School/Microsoft Azure/Microsoft Azure.md",
