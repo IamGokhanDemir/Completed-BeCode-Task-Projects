@@ -34,10 +34,16 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "Digital Shield": [
+      "Methondology",
+      "BeCode School"
+    ]
+  },
   "expandedSpaces": [
     "/",
-    null
+    null,
+    "Digital Shield"
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
