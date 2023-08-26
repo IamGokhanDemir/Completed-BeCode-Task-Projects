@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ffa34a5761a2500",
+  "active": "7459c22c63bd9854",
   "lastOpenFiles": [
     "Practice Makes Perfect/Under The Wire/Readme.md",
     "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
