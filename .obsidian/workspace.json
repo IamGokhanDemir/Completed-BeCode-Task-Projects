@@ -14,17 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "e3d09a49c5c41d53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +176,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2ffa34a5761a2500",
+  "active": "7459c22c63bd9854",
   "lastOpenFiles": [
     "Context/spacesLastSync.log",
     "Context",
