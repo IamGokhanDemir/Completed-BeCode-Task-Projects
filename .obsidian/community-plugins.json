@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-icon-folder",
   "cmdr",
   "quickadd",
   "table-editor-obsidian",
@@ -8,13 +7,10 @@
   "obsidian-projects",
   "obsidian-excalidraw-plugin",
   "obsidian-textgenerator-plugin",
-  "obsidian-icons-plugin",
-  "make-md",
   "obsidian-mind-map",
   "nldates-obsidian",
   "recent-files-obsidian",
   "cm-editor-syntax-highlight-obsidian",
-  "link-favicon",
-  "obsidian-emoji-toolbar",
-  "obsidian-markdown-formatting-assistant-plugin"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "make-md"
 ]

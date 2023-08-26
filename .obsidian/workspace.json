@@ -62,23 +62,23 @@
             }
           },
           {
-            "id": "7459c22c63bd9854",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
             "id": "62759298b305da21",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "ce275dce1633c8be",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,10 +178,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c73cbcf0bc741d73",
+  "active": "20e8de8486876ee8",
   "lastOpenFiles": [
     "Practice Makes Perfect/Under The Wire/Readme.md",
     "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
