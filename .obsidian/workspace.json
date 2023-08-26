@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ffa34a5761a2500",
+  "active": "7459c22c63bd9854",
   "lastOpenFiles": [
+    "BeCode School/BeCode School.md",
     "Context/spacesLastSync.log",
     "Context",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/2. Describe encryption and its use in cybersecurity.md",
@@ -207,7 +209,6 @@
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 3 - Describe information protection and data lifecycle management in Microsoft Purview",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 4 - Describe network-based threats and mitigations",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 5 - Describe device-based threats and security controls",
-    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them",
     "BeCode School/Linux/Task/Untitled.canvas",
     "BeCode School/Microsoft Azure/Untitled.canvas",
     "Completed-BeCode-Task-Projects/Completed-Becode-Task-Projects/BeCode School/Linux/Task/Untitled.canvas",
