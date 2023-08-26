@@ -1,37 +1,44 @@
 {
   "main": {
-    "id": "8d9f73e3f8ea690b",
+    "id": "26532304a2c34d41",
     "type": "split",
     "children": [
       {
-        "id": "cd51c5c5036746fa",
+        "id": "0e6fb34ebe36d2b2",
         "type": "tabs",
         "children": [
           {
-            "id": "226fe71650740888",
+            "id": "b273b9c69bd8cf74",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "BeCode School"
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3d09a49c5c41d53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6d261d10593c4cd0",
+    "id": "356708741e2f3805",
     "type": "split",
     "children": [
       {
-        "id": "e7bb81a62b97ee57",
+        "id": "f3598fe7b38abc27",
         "type": "tabs",
         "children": [
           {
-            "id": "6384cccb076003b5",
+            "id": "2ffa34a5761a2500",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +48,7 @@
             }
           },
           {
-            "id": "817084cbf1a6874d",
+            "id": "e47c471b5c467f01",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +63,7 @@
             }
           },
           {
-            "id": "6a4fd88ab4881c20",
+            "id": "20e8de8486876ee8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -64,15 +71,7 @@
             }
           },
           {
-            "id": "027bccf1df61af49",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "9846307949695679",
+            "id": "7459c22c63bd9854",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -80,22 +79,22 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "bf7bb5a0591f443f",
+    "id": "9d26dbed04596edd",
     "type": "split",
     "children": [
       {
-        "id": "27a33ef38eaec21e",
+        "id": "c904565cd4fceee7",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b2146b591b223b",
+            "id": "17588b0b25541b18",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +110,7 @@
             }
           },
           {
-            "id": "1849ebb316b118bb",
+            "id": "5e8c40def3a5fc3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +121,7 @@
             }
           },
           {
-            "id": "28425694327794eb",
+            "id": "ba6538470b75e6d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,20 +132,43 @@
             }
           },
           {
-            "id": "5c858d8ba50bbf01",
+            "id": "45576c7c98ba8723",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "c73cbcf0bc741d73",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d3785a8873ddbfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "95162aa980419bf3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,33 +177,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9846307949695679",
+  "active": "2ffa34a5761a2500",
   "lastOpenFiles": [
-    "BeCode School/BeCode School.md",
-    "BeCode School/Microsoft Azure/Untitled.canvas",
-    "BeCode School/Untitled.canvas",
-    "BeCode School/Phishing/Phishing.md",
-    "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra.md",
-    "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/1. Describe the concepts of security  compliance  and identity.md",
-    "BeCode School/Microsoft Azure/Microsoft Azure.md",
-    "BeCode School/Programming/Database/SQL/6. Create.md",
-    "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD/1. Describe the authentication methods available in Azure AD.md",
-    "README.md",
     "Context/spacesLastSync.log",
     "Context",
-    "BeCode School/Programming/Database/SQL/8. Drop.md",
-    "BeCode School/Programming/Database/SQL/7. Update.md",
-    "BeCode School/Programming/Database/SQL/4. Update.md",
-    "BeCode School/Programming/Database/SQL/5. Delete.md",
-    "BeCode School/Programming/Database/SQL/3. Create.md",
-    "BeCode School/Programming/Database/SQL/2. Read.md",
-    "BeCode School/Programming/Database/SQL/1. intro.md",
-    "BeCode School/Programming/Database/SQL/Project-Task.md",
-    "BeCode School/Programming/Database/NoSql",
-    "BeCode School/Programming/Database/SQL",
-    "BeCode School/Programming/Database"
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/2. Describe encryption and its use in cybersecurity.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/Introduction.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/1. Describe cryptography.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/3. Describe hashing and its application in digital signing.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/4. Describe digital certificates.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/Knowledge Check.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/Introduction.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/Knowledge Check.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/1. Define authentication.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/2. Describe authentication-based attacks.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/3. Describe authorization security techniques.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them/Knowledge check.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them/1. Describe what are applications.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them/Introduction.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them/3. Describe how to protect your applications.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them/2. Describe the threat landscape of applications.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure/Introduction.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure/1. Describe Azure Policy.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure/Knowledge Check.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure/3. Describe the capabilities in the Microsoft Purview governance portal.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure/2. Describe the use of Azure Blueprints.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview/Knowledge Check.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview/1. Describe the eDiscovery solutions in Microsoft Purview.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview/Introduction.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview/2. Describe the audit solutions in Microsoft Purview.md",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 1 - Describe the Service Trust Portal and privacy at Microsoft",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 2 - Describe the compliance management capabilities in Microsoft Purview",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 4 - Describe insider risk capabilities in Microsoft Purview",
+    "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 3 - Describe information protection and data lifecycle management in Microsoft Purview",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 4 - Describe network-based threats and mitigations",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 5 - Describe device-based threats and security controls",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 6 - Describe application-based threats and how to protect against them",
+    "BeCode School/Linux/Task/Untitled.canvas",
+    "BeCode School/Microsoft Azure/Untitled.canvas",
+    "Completed-BeCode-Task-Projects/Completed-Becode-Task-Projects/BeCode School/Linux/Task/Untitled.canvas",
+    "Completed-BeCode-Task-Projects/BeCode School/Linux/Task/Untitled.canvas",
+    "Pasted image 20230809095126.png",
+    "Pasted image 20230809102704.png",
+    "BeCode School/Phishing/making_phishing/Untitled.canvas",
+    "Cheat Sheets/Linux.canvas",
+    "Untitled.canvas"
   ]
 }

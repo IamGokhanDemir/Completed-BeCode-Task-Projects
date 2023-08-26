@@ -40,6 +40,7 @@
       "BeCode School",
       "Methondology",
       "BeCode School/Phishing",
+      "BeCode School",
       "BeCode School"
     ]
   },
@@ -78,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693043829077,
+  "spacesAutoBackupLast": 1693044951960,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

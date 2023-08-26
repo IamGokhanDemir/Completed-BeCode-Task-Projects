@@ -1,12 +1,13 @@
 [
   "obsidian-git",
   "obsidian-icon-folder",
-  "cm-editor-syntax-highlight-obsidian",
-  "recent-files-obsidian",
-  "nldates-obsidian",
+  "cmdr",
+  "quickadd",
+  "table-editor-obsidian",
   "dataview",
-  "obsidian-mind-map",
-  "make-md",
+  "obsidian-projects",
+  "obsidian-excalidraw-plugin",
+  "obsidian-textgenerator-plugin",
   "obsidian-icons-plugin",
-  "obsidian-emoji-toolbar"
+  "make-md"
 ]

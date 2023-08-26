@@ -1,14 +1,14 @@
 {
-  "commitMessage": "Modified: {{date}}{{hostname}}{{numFiles}}",
-  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
+  "commitMessage": "Modified: {{date}}{numFiles}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "Modified: {{date}}{{hostname}}{{numFiles}}"
+  "autoCommitMessage": "Modified: {{date}}{numFiles}}"
 }
