@@ -40,7 +40,8 @@
       "BeCode School",
       "Methondology",
       "BeCode School",
-      "BeCode School"
+      "BeCode School",
+      "TryHackMe.com"
     ]
   },
   "expandedSpaces": [
@@ -78,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693045590179,
+  "spacesAutoBackupLast": 1693046030895,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
