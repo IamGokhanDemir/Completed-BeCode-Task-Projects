@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9f9a25cdb12eb1b",
+        "id": "cd51c5c5036746fa",
         "type": "tabs",
         "children": [
           {
-            "id": "09cfddf801a2c0a9",
+            "id": "226fe71650740888",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "BeCode School/Phishing"
+                "contextPath": "BeCode School"
               }
             }
           }
@@ -158,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09cfddf801a2c0a9",
+  "active": "9846307949695679",
   "lastOpenFiles": [
+    "BeCode School/BeCode School.md",
+    "BeCode School/Microsoft Azure/Untitled.canvas",
     "BeCode School/Untitled.canvas",
     "BeCode School/Phishing/Phishing.md",
     "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra.md",
