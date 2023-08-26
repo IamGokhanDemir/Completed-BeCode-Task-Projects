@@ -68,9 +68,17 @@
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "62759298b305da21",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,32 +179,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b273b9c69bd8cf74",
+  "active": "62759298b305da21",
   "lastOpenFiles": [
+    "Practice Makes Perfect/Under The Wire/Readme.md",
+    "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
+    "Practice Makes Perfect/Under The Wire/Level 8 - 9.md",
+    "Practice Makes Perfect/Under The Wire/Level 7 - 8.md",
+    "Practice Makes Perfect/Under The Wire/Level 6 - 7.md",
+    "Practice Makes Perfect/Under The Wire/Level 5 - 6.md",
+    "Practice Makes Perfect/Under The Wire/Level 4 - 5.md",
     "Practice Makes Perfect/Under The Wire/Level 3 - 4.md",
     "Practice Makes Perfect/Under The Wire/Level 2 - 3.md",
-    "Practice Makes Perfect/Under The Wire/Level 4 - 5.md",
-    "Practice Makes Perfect/Under The Wire/Level 5 - 6.md",
-    "Practice Makes Perfect/Under The Wire/Level 6 - 7.md",
-    "Practice Makes Perfect/Under The Wire/Level 7 - 8.md",
-    "Practice Makes Perfect/Under The Wire/Level 8 - 9.md",
-    "Practice Makes Perfect/Under The Wire/Readme.md",
     "Practice Makes Perfect/Under The Wire/Level 14 - 15.md",
-    "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
     "Practice Makes Perfect/Under The Wire/Level 13 - 14.md",
     "Practice Makes Perfect/Under The Wire/Level 12 - 13.md",
-    "Practice Makes Perfect/Under The Wire/Level 0 - 1.md",
-    "Practice Makes Perfect/Under The Wire/Level 10 - 11.md",
-    "Practice Makes Perfect/Under The Wire/Exercise Powershell.md",
     "Practice Makes Perfect/Under The Wire/Level 11 - 12.md",
+    "Practice Makes Perfect/Under The Wire/Level 10 - 11.md",
+    "Practice Makes Perfect/Under The Wire/Level 0 - 1.md",
     "Practice Makes Perfect/Under The Wire/Level 1 - 2.md",
+    "Practice Makes Perfect/Under The Wire/Exercise Powershell.md",
     "Practice Makes Perfect/Under The Wire",
     "Practice Makes Perfect",
-    "TryHackMe.com/Introduction to Cyber Security/2. Intro to Defensive Security.md",
     "TryHackMe.com/Introduction to Cyber Security/1. Intro to Offensive Security.md",
+    "TryHackMe.com/Introduction to Cyber Security/2. Intro to Defensive Security.md",
     "TryHackMe.com/Introduction to Cyber Security",
     "TryHackMe.com",
-    "BeCode School/BeCode School.md",
     "Context/spacesLastSync.log",
     "Context",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/2. Describe encryption and its use in cybersecurity.md",
@@ -205,6 +212,7 @@
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/3. Describe hashing and its application in digital signing.md",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/4. Describe digital certificates.md",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/Knowledge Check.md",
+    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/Introduction.md",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 1 - Describe the Service Trust Portal and privacy at Microsoft",
