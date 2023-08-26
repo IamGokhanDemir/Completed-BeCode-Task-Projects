@@ -39,6 +39,7 @@
       "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD",
       "BeCode School",
       "Methondology",
+      "BeCode School/Phishing",
       "BeCode School",
       "BeCode School"
     ]
@@ -78,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693045439151,
+  "spacesAutoBackupLast": 1693045431310,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

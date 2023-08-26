@@ -69,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7459c22c63bd9854",
+  "active": "2ffa34a5761a2500",
   "lastOpenFiles": [
     "Context/spacesLastSync.log",
     "Context",
