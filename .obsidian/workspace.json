@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e6fb34ebe36d2b2",
+        "id": "76014f49658d3f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "b273b9c69bd8cf74",
+            "id": "c1f14ec159031f8b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,15 +70,14 @@
             }
           },
           {
-            "id": "ce275dce1633c8be",
+            "id": "bd7805b9d0601de7",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ce275dce1633c8be",
+  "active": "2ffa34a5761a2500",
   "lastOpenFiles": [
+    "2023-08-26.md",
     "Practice Makes Perfect/Under The Wire/Readme.md",
     "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
     "Practice Makes Perfect/Under The Wire/Level 8 - 9.md",
@@ -215,7 +215,6 @@
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/3. Describe hashing and its application in digital signing.md",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/4. Describe digital certificates.md",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/Knowledge Check.md",
-    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 3 - Describe authentication and authorization in cybersecurity/Introduction.md",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 1 - Describe the Service Trust Portal and privacy at Microsoft",
