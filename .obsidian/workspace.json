@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62759298b305da21",
+  "active": "b273b9c69bd8cf74",
   "lastOpenFiles": [
     "Practice Makes Perfect/Under The Wire/Readme.md",
     "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
