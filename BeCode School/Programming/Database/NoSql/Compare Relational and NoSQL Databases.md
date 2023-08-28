@@ -50,7 +50,7 @@ Relational databases store entity details and related records. Duplication is mi
 
 Example: A bookstore stores book, author, and purchase data. Separate tables for each entity, e.g., Books and Authors.
 
-!
+![relation database](https://user.oc-static.com/upload/2019/05/23/15586279607157_Logical%201c2b.png)
 ### 🧐 **Entities and Attributes** 🧐
 
 An **entity** is anything describable, like a person. Attributes define entities' qualities. In databases, attributes become fields in tables.
@@ -59,12 +59,14 @@ For vehicles, color could be an attribute. For restaurants, postal code.
 
 Attributes are small and specific; a complete address breaks into components.
 
+![entities](https://user.oc-static.com/upload/2019/05/31/15593113015604_Two%20tables.png)
 ### ➗ **Entity Relationships** ➗
 
 Entities relate through primary and foreign keys. Diagrams like Entity Relationship Diagrams (ERDs) show these connections.
 
 Relational databases thrive on related tables for meaningful data retrieval.
 
+![relationships](https://user.oc-static.com/upload/2019/05/31/15593117788003_Big%20ERD.png)
 ## 📝 **Practice with Multiple Choice Questions** 📝
 
 1. Which type of NoSQL database uses a timestamp to differentiate between valid and old values?
@@ -102,4 +104,4 @@ Relational databases thrive on related tables for meaningful data retrieval.
 2. ✔️ Show relationships between tables
 3. ✔️ SQL databases are structured, while NoSQL databases are dynamic
 4. ✔️ Attributes become fields within tables
-5. ✔️ NoSQL databases cater to specific needs and unstructured da
+5. ✔️ NoSQL databases cater to specific needs and unstructured data
