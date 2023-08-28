@@ -8,5 +8,14 @@
   "make-md",
   "obsidian-git",
   "obsidian-icons-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "link-favicon",
+  "obsidian-mind-map",
+  "nldates-obsidian",
+  "recent-files-obsidian",
+  "obsidian-icon-shortcodes",
+  "obsidian-emoji-toolbar",
+  "cm-editor-syntax-highlight-obsidian",
+  "dataview",
+  "table-editor-obsidian"
 ]
