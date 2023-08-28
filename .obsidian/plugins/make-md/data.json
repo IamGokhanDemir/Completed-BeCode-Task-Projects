@@ -44,7 +44,8 @@
       "BeCode School/Programming",
       "BeCode School/Programming/Database",
       "BeCode School/Phishing/Phishing",
-      "BeCode School/Programming/Database/NoSql"
+      "BeCode School/Programming/Database/NoSql",
+      "BeCode School/Microsoft Azure"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693210074971,
+  "spacesAutoBackupLast": 1693211932732,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
