@@ -1,7 +1,6 @@
 ---
 sticker: emoji//2754
 ---
-Sure, here are the quiz questions formatted in Markdown:
 
 ---
 
@@ -63,7 +62,7 @@ What sort of characteristics would violate rules for primary keys?
 Which of the following are ways a DBMS enforces referential integrity?
 
 - [x] Prevent an update operation on a primary key field if the foreign key value exists.
-- [x] Prevent a delete operation on a foreign key field if the primary key value exists.
+- [ ] Prevent a delete operation on a foreign key field if the primary key value exists.
 - [x] Prevent an insert operation on a foreign key field when there would be no matching primary key.
 - [ ] Prevent an insert operation on a primary key field when there would be no matching foreign key.
 
@@ -80,23 +79,23 @@ Normalization ensures that ___ data is not saved anywhere in the database.
 
 - [ ] Conflicting
 - [ ] Suspect
-- [ ] Duplicate
-- [x] Erroneous
+- [x] Duplicate
+- [ ] Erroneous
 
 **Question 10**
 The primary key (PK) is established in which normal form?
 
 - [ ] None of them
-- [ ] First (1NF)
+- [x] First (1NF)
 - [ ] Second (2NF)
-- [x] Third (3NF)
+- [ ] Third (3NF)
 
 **Question 11**
 What criteria must be met for a database to be in second normal form (2NF)?
 
 - [ ] The database must have been designed in 2NF from the beginning.
 - [x] All partial dependencies must be removed.
-- [x] All transitive dependencies must be removed.
+- [ ] All transitive dependencies must be removed.
 - [x] The database must also be in 1NF.
 - [ ] The database must also be in 3NF.
 
@@ -117,7 +116,6 @@ You want to normalize the database to 3NF. Which of the following would be a suc
 - [ ] Species (PK) SpeciesID, Species
 - [ ] Owners (PK) OwnerID, OwnerLastName, OwnerFullName
 
-**Note:** The table formatting might not display correctly in Markdown, but the content is accurate.
 
 ---
 
