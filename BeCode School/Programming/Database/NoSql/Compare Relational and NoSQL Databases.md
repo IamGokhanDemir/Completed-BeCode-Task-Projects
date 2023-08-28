@@ -29,6 +29,7 @@ Let's explore them briefly.
 3. **Key-value:** Uses dictionary-like structure. Example: Oracle NoSQL.
 4. **Document:** Stores object details together. Example: Couchbase.
 
+![Comparison](https://user.oc-static.com/upload/2019/07/05/15623398368289_SQL%20vs%20NoSQL.png)
 ### 🔄 **SQL vs. NoSQL** 🔄
 
 Relational databases use **SQL** for structured querying. They're highly structured, using predefined tables for scalability.
@@ -49,6 +50,7 @@ Relational databases store entity details and related records. Duplication is mi
 
 Example: A bookstore stores book, author, and purchase data. Separate tables for each entity, e.g., Books and Authors.
 
+!
 ### 🧐 **Entities and Attributes** 🧐
 
 An **entity** is anything describable, like a person. Attributes define entities' qualities. In databases, attributes become fields in tables.
@@ -100,4 +102,4 @@ Relational databases thrive on related tables for meaningful data retrieval.
 2. ✔️ Show relationships between tables
 3. ✔️ SQL databases are structured, while NoSQL databases are dynamic
 4. ✔️ Attributes become fields within tables
-5. ✔️ NoSQL databases cater to specific needs and unstructured data
+5. ✔️ NoSQL databases cater to specific needs and unstructured da
