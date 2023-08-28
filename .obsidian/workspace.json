@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
+                "file": "BeCode School/Programming/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
+                "file": "BeCode School/Programming/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
+                "file": "BeCode School/Programming/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md"
+                "file": "BeCode School/Programming/Untitled.md"
               }
             }
           },
@@ -190,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1f14ec159031f8b",
+  "active": "bd7805b9d0601de7",
   "lastOpenFiles": [
-    "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
     "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
+    "BeCode School/Programming/Untitled.md",
+    "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
     "BeCode School/Programming/Database/NoSql/NoSql.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/1. Shared responsibility  model.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/Module 1 - Describe security and compliance concepts.md",
@@ -219,7 +220,6 @@
     "Practice Makes Perfect/Under The Wire",
     "Practice Makes Perfect",
     "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security/1. Intro to Offensive Security.md",
-    "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security/2. Intro to Defensive Security.md",
     "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",
     "Practice Makes Perfect/TryHackMe.com",
     "Context/spacesLastSync.log",
