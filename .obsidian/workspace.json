@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/8. Put it all Together.md",
+                "file": "Evaluated skills 1 to 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/8. Put it all Together.md",
+                "file": "Evaluated skills 1 to 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/8. Put it all Together.md",
+                "file": "Evaluated skills 1 to 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/8. Put it all Together.md"
+                "file": "Evaluated skills 1 to 8.md"
               }
             }
           },
@@ -192,8 +192,9 @@
   },
   "active": "fddcb675fe181fb4",
   "lastOpenFiles": [
-    "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md",
     "BeCode School/Programming/Database/NoSql/8. Put it all Together.md",
+    "Evaluated skills 1 to 8.md",
+    "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md",
     "BeCode School/Programming/Database/NoSql/6. Build a Solid Database Foundation Through Normalization.md",
     "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
     "Methondology/Methondology.md",
@@ -217,7 +218,6 @@
     "Practice Makes Perfect/Under The Wire/Level 6 - 7.md",
     "Practice Makes Perfect/Under The Wire/Level 5 - 6.md",
     "Practice Makes Perfect/Under The Wire/Level 4 - 5.md",
-    "Practice Makes Perfect/Under The Wire/Level 3 - 4.md",
     "Practice Makes Perfect/Under The Wire",
     "Practice Makes Perfect",
     "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",
