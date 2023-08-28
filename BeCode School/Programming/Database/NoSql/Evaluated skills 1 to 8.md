@@ -22,17 +22,17 @@ A lack of referential integrity leads to ___ and ___.
 
 - [x] orphan records
 - [ ] broken records
-- [x] orphan links
-- [ ] broken links
+- [ ] orphan links
+- [x] broken links
 - [ ] plagiarism
 
 **Question 3**
 What is an entity type?
 
-- [ ] A collection of two or more tables with similar attributes.
+- [x] A collection of two or more tables with similar attributes.
 - [ ] One of the following categories: number, date/time, boolean, or text.
 - [ ] A single instance of a defined entity.
-- [x] A database modeled by a single table.
+- [ ] A database modeled by a single table.
 
 **Question 4**
 Which of the following are true of primary keys?
