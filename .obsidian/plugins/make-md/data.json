@@ -45,10 +45,8 @@
       "Practice Makes Perfect/Under The Wire",
       "BeCode School/Programming/scripting/Python",
       "/",
-      "BeCode School",
       "BeCode School/Programming",
       "BeCode School/Programming/Database",
-      "BeCode School",
       "Methondology"
     ]
   },
@@ -87,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693232820824,
+  "spacesAutoBackupLast": 1693233371198,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
