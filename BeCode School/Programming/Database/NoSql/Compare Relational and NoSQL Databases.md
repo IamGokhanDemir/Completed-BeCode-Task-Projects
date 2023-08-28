@@ -1,3 +1,6 @@
+---
+sticker: lucide//database
+---
 ## Relational and NoSQL Databases
 
 ### 📊 **Relational Databases** 📊
