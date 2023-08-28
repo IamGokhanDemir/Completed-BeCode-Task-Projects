@@ -43,9 +43,9 @@
       "BeCode School",
       "BeCode School/Programming",
       "BeCode School/Programming/Database",
-      "BeCode School/Programming/Database/NoSql",
       "BeCode School/Phishing",
-      "BeCode School/Phishing"
+      "BeCode School/Phishing",
+      "BeCode School/Phishing/Phishing"
     ]
   },
   "expandedSpaces": [
@@ -83,7 +83,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693208505419,
+  "spacesAutoBackupLast": 1693209758967,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

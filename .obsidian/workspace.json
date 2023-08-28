@@ -13,7 +13,7 @@
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "BeCode School/Phishing"
+                "contextPath": "BeCode School/Phishing/Phishing"
               }
             }
           }
@@ -186,6 +186,7 @@
   },
   "active": "c1f14ec159031f8b",
   "lastOpenFiles": [
+    "BeCode School/Phishing/Phishing/Phishing.md",
     "2023-08-26.md",
     "Practice Makes Perfect/Under The Wire/Readme.md",
     "Practice Makes Perfect/Under The Wire/Level 9 - 10.md",
@@ -217,7 +218,6 @@
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/1. Describe cryptography.md",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/3. Describe hashing and its application in digital signing.md",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/4. Describe digital certificates.md",
-    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/Knowledge Check.md",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 1 - Describe the Service Trust Portal and privacy at Microsoft",
