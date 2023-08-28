@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/4. Identify the Basics of Relational Databases.md",
+                "file": "BeCode School/Programming/Database/NoSql/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/4. Identify the Basics of Relational Databases.md",
+                "file": "BeCode School/Programming/Database/NoSql/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/4. Identify the Basics of Relational Databases.md",
+                "file": "BeCode School/Programming/Database/NoSql/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/4. Identify the Basics of Relational Databases.md"
+                "file": "BeCode School/Programming/Database/NoSql/test.md"
               }
             }
           },
@@ -193,7 +193,7 @@
   "active": "c1f14ec159031f8b",
   "lastOpenFiles": [
     "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
-    "BeCode School/Programming/Database/NoSql/4. Identify the Basics of Relational Databases.md",
+    "BeCode School/Programming/Database/NoSql/test.md",
     "BeCode School/Linux/Linux.md",
     "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
     "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
