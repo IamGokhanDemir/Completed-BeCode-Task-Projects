@@ -1,13 +1,12 @@
 [
   "cmdr",
   "quickadd",
-  "table-editor-obsidian",
-  "dataview",
   "obsidian-projects",
   "obsidian-excalidraw-plugin",
   "obsidian-textgenerator-plugin",
   "obsidian-markdown-formatting-assistant-plugin",
   "make-md",
   "obsidian-git",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "obsidian-icon-folder"
 ]
