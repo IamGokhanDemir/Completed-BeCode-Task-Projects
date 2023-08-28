@@ -11,11 +11,9 @@
             "id": "c1f14ec159031f8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/Untitled.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "BeCode School/Linux"
               }
             }
           }
@@ -102,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BeCode School/Programming/Database/NoSql/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +184,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd7805b9d0601de7",
+  "active": "c1f14ec159031f8b",
   "lastOpenFiles": [
-    "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
+    "BeCode School/Linux/Linux.md",
     "BeCode School/Programming/Database/NoSql/Untitled.md",
+    "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
     "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
     "BeCode School/Programming/Database/NoSql/NoSql.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/1. Shared responsibility  model.md",
@@ -219,7 +214,6 @@
     "Practice Makes Perfect/Under The Wire/Exercise Powershell.md",
     "Practice Makes Perfect/Under The Wire",
     "Practice Makes Perfect",
-    "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security/1. Intro to Offensive Security.md",
     "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",
     "Practice Makes Perfect/TryHackMe.com",
     "Context/spacesLastSync.log",
