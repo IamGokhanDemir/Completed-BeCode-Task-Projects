@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compare Relational and NoSQL Databases.md",
+                "file": "BeCode School/Programming/Database/NoSql/Compare Relational and NoSQL Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compare Relational and NoSQL Databases.md",
+                "file": "BeCode School/Programming/Database/NoSql/Compare Relational and NoSQL Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compare Relational and NoSQL Databases.md",
+                "file": "BeCode School/Programming/Database/NoSql/Compare Relational and NoSQL Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compare Relational and NoSQL Databases.md"
+                "file": "BeCode School/Programming/Database/NoSql/Compare Relational and NoSQL Databases.md"
               }
             }
           },
@@ -192,9 +192,10 @@
   },
   "active": "c1f14ec159031f8b",
   "lastOpenFiles": [
+    "BeCode School/Programming/Database/NoSql/NoSql.md",
+    "BeCode School/Programming/Database/NoSql/Compare Relational and NoSQL Databases.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/1. Shared responsibility  model.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/Module 1 - Describe security and compliance concepts.md",
-    "Compare Relational and NoSQL Databases.md",
     "BeCode School/Phishing/Phishing/Phishing.md",
     "2023-08-26.md",
     "Practice Makes Perfect/Under The Wire/Readme.md",
@@ -216,14 +217,13 @@
     "Practice Makes Perfect/Under The Wire/Exercise Powershell.md",
     "Practice Makes Perfect/Under The Wire",
     "Practice Makes Perfect",
-    "TryHackMe.com/Introduction to Cyber Security/1. Intro to Offensive Security.md",
-    "TryHackMe.com/Introduction to Cyber Security/2. Intro to Defensive Security.md",
-    "TryHackMe.com/Introduction to Cyber Security",
-    "TryHackMe.com",
+    "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security/1. Intro to Offensive Security.md",
+    "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security/2. Intro to Defensive Security.md",
+    "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",
+    "Practice Makes Perfect/TryHackMe.com",
     "Context/spacesLastSync.log",
     "Context",
     "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/2. Describe encryption and its use in cybersecurity.md",
-    "BeCode School/Microsoft Azure/5. Describe the basic concepts of cybersecurity/Module 2 - Describe concepts of cryptography/Introduction.md",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 6 - Describe resource governance capabilities in Azure",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 5 - Describe the eDiscovery and audit capabilities of Microsoft Purview",
     "BeCode School/Microsoft Azure/4. Describe the capabilities of Microsoft compliance solutions/Module 1 - Describe the Service Trust Portal and privacy at Microsoft",

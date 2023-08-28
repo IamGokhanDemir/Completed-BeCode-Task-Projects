@@ -42,12 +42,13 @@
       "BeCode School",
       "BeCode School",
       "BeCode School/Programming",
-      "BeCode School/Programming/Database",
       "BeCode School/Phishing/Phishing",
-      "BeCode School/Programming/Database/NoSql",
       "BeCode School/Microsoft Azure",
       "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity",
-      "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts"
+      "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts",
+      "BeCode School/Programming/Database/NoSql",
+      "BeCode School/Programming/Database",
+      "BeCode School/Programming/Database/NoSql"
     ]
   },
   "expandedSpaces": [
@@ -85,7 +86,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693212082040,
+  "spacesAutoBackupLast": 1693212216938,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
