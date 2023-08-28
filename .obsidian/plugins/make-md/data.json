@@ -47,7 +47,11 @@
       "BeCode School/Programming/Database/NoSql",
       "BeCode School/Programming/Database",
       "BeCode School/Programming/Database/NoSql",
-      "BeCode School/Programming/Database/NoSql"
+      "BeCode School/Programming/Database/NoSql",
+      "Practice Makes Perfect/TryHackMe.com",
+      "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",
+      "Practice Makes Perfect/Under The Wire",
+      "BeCode School/Programming/scripting/Python"
     ]
   },
   "expandedSpaces": [
@@ -85,7 +89,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693214772852,
+  "spacesAutoBackupLast": 1693214945491,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -11,9 +11,11 @@
             "id": "c1f14ec159031f8b",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "BeCode School/Linux"
+                "file": "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md"
+              }
             }
           },
           {
@@ -187,7 +193,7 @@
   "active": "c1f14ec159031f8b",
   "lastOpenFiles": [
     "BeCode School/Linux/Linux.md",
-    "BeCode School/Programming/Database/NoSql/Untitled.md",
+    "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
     "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
     "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
     "BeCode School/Programming/Database/NoSql/NoSql.md",
