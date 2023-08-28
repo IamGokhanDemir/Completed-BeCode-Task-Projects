@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76014f49658d3f9d",
+        "id": "281859acee085703",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f14ec159031f8b",
+            "id": "fddcb675fe181fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md",
+                "file": "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md",
+                "file": "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md",
+                "file": "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md"
+                "file": "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md"
               }
             }
           },
@@ -192,13 +192,18 @@
   },
   "active": "bd7805b9d0601de7",
   "lastOpenFiles": [
+    "BeCode School/Programming/Database/NoSql/6. Build a Solid Database Foundation Through Normalization.md",
+    "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md",
+    "Methondology/Methondology.md",
+    "BeCode School/BeCode School.md",
+    "BeCode School/Programming/Database/NoSql/Evaluated skills 1 to 3.md",
+    "BeCode School/Programming/Database/SQL/SQL.md",
+    "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
+    "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
+    "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
     "BeCode School/Programming/Database/NoSql/4. Connect Your Data With a Relational Data Model.md",
     "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md",
-    "BeCode School/Programming/Database/NoSql/Evaluated skills 1 to 3.md",
-    "BeCode School/Programming/Database/NoSql/3. Choose the Right Data Type.md",
     "BeCode School/Linux/Linux.md",
-    "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md",
-    "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md",
     "BeCode School/Programming/Database/NoSql/NoSql.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/1. Shared responsibility  model.md",
     "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts/Module 1 - Describe security and compliance concepts.md",
@@ -213,11 +218,6 @@
     "Practice Makes Perfect/Under The Wire/Level 4 - 5.md",
     "Practice Makes Perfect/Under The Wire/Level 3 - 4.md",
     "Practice Makes Perfect/Under The Wire/Level 2 - 3.md",
-    "Practice Makes Perfect/Under The Wire/Level 14 - 15.md",
-    "Practice Makes Perfect/Under The Wire/Level 13 - 14.md",
-    "Practice Makes Perfect/Under The Wire/Level 12 - 13.md",
-    "Practice Makes Perfect/Under The Wire/Level 11 - 12.md",
-    "Practice Makes Perfect/Under The Wire/Level 10 - 11.md",
     "Practice Makes Perfect/Under The Wire",
     "Practice Makes Perfect",
     "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",

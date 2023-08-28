@@ -1,8 +1,6 @@
 ---
 sticker: emoji//2754
 ---
-
-
 ---
 
 **Identify the Basics of Relational Databases**

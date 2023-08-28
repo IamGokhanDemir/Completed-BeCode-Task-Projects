@@ -37,21 +37,20 @@
   "expandedFolders": {
     "Digital Shield": [
       "BeCode School/Microsoft Azure/2. Describe the capabilities of Microsoft Azure Active Directory - part of Microsoft Entra/Module 2 - Describe the authentication capabilities of Azure AD",
-      "BeCode School",
       "Methondology",
-      "BeCode School",
-      "BeCode School",
-      "BeCode School/Programming",
       "BeCode School/Phishing/Phishing",
       "BeCode School/Microsoft Azure/1. Describe the concepts of security  compliance  and identity/Module 1 - Describe security and compliance concepts",
-      "BeCode School/Programming/Database/NoSql",
-      "BeCode School/Programming/Database",
-      "BeCode School/Programming/Database/NoSql",
-      "BeCode School/Programming/Database/NoSql",
       "Practice Makes Perfect/TryHackMe.com",
       "Practice Makes Perfect/TryHackMe.com/Introduction to Cyber Security",
       "Practice Makes Perfect/Under The Wire",
-      "BeCode School/Programming/scripting/Python"
+      "BeCode School/Programming/scripting/Python",
+      "/",
+      "BeCode School",
+      "BeCode School/Programming",
+      "BeCode School/Programming/Database",
+      "BeCode School/Programming/Database/NoSql",
+      "BeCode School",
+      "Methondology"
     ]
   },
   "expandedSpaces": [
@@ -89,7 +88,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1693217473496,
+  "spacesAutoBackupLast": 1693225536867,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

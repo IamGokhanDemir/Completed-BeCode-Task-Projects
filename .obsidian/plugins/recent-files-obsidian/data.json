@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "5. Identify Database Integrity Constraints",
-      "path": "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md"
+      "basename": "7. Normalize to the First, Second, and Third Normal Forms",
+      "path": "BeCode School/Programming/Database/NoSql/7. Normalize to the First, Second, and Third Normal Forms.md"
     },
     {
-      "basename": "4. Connect Your Data With a Relational Data Model",
-      "path": "BeCode School/Programming/Database/NoSql/4. Connect Your Data With a Relational Data Model.md"
+      "basename": "6. Build a Solid Database Foundation Through Normalization",
+      "path": "BeCode School/Programming/Database/NoSql/6. Build a Solid Database Foundation Through Normalization.md"
     },
     {
       "basename": "Evaluated skills 1 to 3",
       "path": "BeCode School/Programming/Database/NoSql/Evaluated skills 1 to 3.md"
+    },
+    {
+      "basename": "1. Compare Relational and NoSQL Databases",
+      "path": "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md"
     },
     {
       "basename": "3. Choose the Right Data Type",
@@ -21,8 +25,12 @@
       "path": "BeCode School/Programming/Database/NoSql/2. Make Use of a Database Management System (DBMS).md"
     },
     {
-      "basename": "1. Compare Relational and NoSQL Databases",
-      "path": "BeCode School/Programming/Database/NoSql/1. Compare Relational and NoSQL Databases.md"
+      "basename": "4. Connect Your Data With a Relational Data Model",
+      "path": "BeCode School/Programming/Database/NoSql/4. Connect Your Data With a Relational Data Model.md"
+    },
+    {
+      "basename": "5. Identify Database Integrity Constraints",
+      "path": "BeCode School/Programming/Database/NoSql/5. Identify Database Integrity Constraints.md"
     },
     {
       "basename": "1. Shared responsibility  model",
