@@ -6,7 +6,7 @@
 
 Before embarking on the project, a little introduction is probably useful !
 
-To do so, here is a small course to acoomplish on [PIX](https://pix.org/fr/), in order to know the good practices to secure its digital environment, this information, will be surely very useful to you in the realization of the tasks to come and will be also very interesting for the certifications which will follow like Tosa, ...
+To do so, here is a small course to accomplish on [PIX](https://pix.org/fr/), in order to know the good practices to secure its digital environment, this information, will be surely very useful to you in the realization of the tasks to come and will be also very interesting for the certifications which will follow like Tosa, ...
 
 Here is the link to the pix course : [Securing the digital environment](https://app.pix.org/competences/rec6rHqas39zvLZep/details)
 
