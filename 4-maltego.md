@@ -34,7 +34,7 @@ Let's get started:
 
    Select the CE (Community Edition) when prompted:
 
-Choose Community Edition
+	Choose Community Edition
 
 5. **Accept Conditions:**
 
