@@ -34,13 +34,12 @@ Let's get started:
 
    Select the CE (Community Edition) when prompted:
 
-   ![Choose Community Edition](https://www.bing.com/images/blob?bcid=qBRZ9be4PAoG5j4NhwPqN.c1Lk-l.....78)
+Choose Community Edition
 
 5. **Accept Conditions:**
 
    Accept the terms and conditions. Then, visit [this link](https://www.maltego.com/ce-registration/) to create your login:
 
-   ![Activate Maltego](https://github.com/IamGokhanDemir/BXL-k4MK4r-1/raw/main/content/06-Pentest/01-Informations_Gathering/Passive/assets/malFree.png)
 
 6. **Activate Your Account:**
 
