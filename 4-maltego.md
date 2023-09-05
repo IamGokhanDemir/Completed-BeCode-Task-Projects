@@ -40,7 +40,7 @@ Let's get started:
 
    Accept the terms and conditions. Then, visit [this link](https://www.maltego.com/ce-registration/) to create your login:
 
-   ![Activate Maltego](./assets/malActivate.png)
+   ![Activate Maltego](https://github.com/IamGokhanDemir/BXL-k4MK4r-1/raw/main/content/06-Pentest/01-Informations_Gathering/Passive/assets/malFree.png)
 
 6. **Activate Your Account:**
 
