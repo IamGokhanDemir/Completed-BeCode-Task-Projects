@@ -34,7 +34,7 @@ Let's get started:
 
    Select the CE (Community Edition) when prompted:
 
-   ![Choose Community Edition](./assets/malFree.png)
+   ![Choose Community Edition](https://www.bing.com/images/blob?bcid=qBRZ9be4PAoG5j4NhwPqN.c1Lk-l.....78)
 
 5. **Accept Conditions:**
 
