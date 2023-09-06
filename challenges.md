@@ -33,6 +33,4 @@ This last challenge is more a little game than anything else but first let me gi
 
 Ready ? Good luck ;)
 
-![<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJDlyGvvOl0uMBqtHcLYarQqgsNafmZAUd3MSMFXhjv79yLA/viewform?embedded=true" width="640" height="669" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>](../assets/marron.gif)
-
 *The answer may not be the destination...*
