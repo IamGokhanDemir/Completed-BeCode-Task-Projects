@@ -1,0 +1,110 @@
+# 🌐 Exploring Other Protocols
+
+In this section, we'll explore two important network protocols: **RPC (Remote Procedure Call)** and **SNMP (Simple Network Management Protocol)**. These protocols play a vital role in network communication, and understanding them is crucial for network assessment and security.
+
+## 📞 RPC - Remote Procedure Call
+
+**RPC (Remote Procedure Call)** is a protocol that allows one program to request services from another program on a remote computer within a network. Think of it like making a phone call to a service provider. Here's how it works:
+
+📡 **Client-Server Model**: RPC operates on a client-server model. The program making the request is the **client**, and the program providing the service is the **server**.
+
+🤝 **Synchronous Operation**: RPC is a synchronous operation, meaning the client waits for the remote procedure to finish before continuing its own execution.
+
+👥 **Concurrency**: RPC can handle multiple requests simultaneously using threads or lightweight processes with a common address space.
+
+### RPC Message Procedure
+
+When a program using RPC is compiled, a **stub file** is included in the code. This stub file represents the remote procedure's code. During execution, when the procedure is called, the stub file intercepts the request and forwards it to a **client runtime program** on the local computer.
+
+### How RPC Works
+
+1. The client runtime program knows how to reach the server application on the remote computer and sends a message over the network to request the remote procedure.
+
+2. The server, which also includes a stub file, communicates with the remote procedure. Request and response protocols ensure proper communication.
+
+📷 ![RPC Diagram](https://imgs.developpaper.com/imgs/3373452411-a55f9829e92ecdb2_articlex.png)
+
+### Using RPCCLIENT
+
+To interact with RPC services and perform queries, we use the `rpcclient` command-line tool. Here are some practical commands:
+
+- ✅ **Testing for Null Sessions**: To check for null sessions (no authentication), use:
+  ```shell
+  rpcclient -U "" -N [ip]
+  ```
+
+- 🔐 **Authenticated Connection**: If you have valid credentials, use them to connect:
+  ```shell
+  rpcclient -U <user> 10.10.10.193
+  ```
+
+- 🔍 **Enumeration**:
+  - To enumerate printers: `enumprinters`
+  - To enumerate users and groups: `enumdomusers` and `enumdomgroups`
+
+- 🕵️‍♂️ **Query Specific Details**:
+  - Query a group: `querygroup <RID>`
+  - Query group members: `querygroupmem <RID>`
+  - Query a user: `queryuser <RID>`
+
+## 🧮 SNMP - Simple Network Management Protocol
+
+**SNMP (Simple Network Management Protocol)** is another important protocol that facilitates the exchange of management information between network devices. SNMP allows administrators to gather information about devices running SNMP and, in some cases, make modifications.
+
+📖 **Managed Devices**: SNMP is typically configured on devices like routers, hubs, switches, servers, and desktops. These devices often include an **agent** that collects information about the environment.
+
+🔍 **SNMP Exploration Tools**:
+- `snmpwalk`: Used for SNMP walks to gather information.
+  - Example: `snmpwalk -v 1 -c public 192.168.99.144`
+
+- `snmpcheck`: A tool for checking SNMP configurations on devices.
+  - Example: `snmpcheck -t 192.168.99.144`
+
+To learn more about SNMP, you can refer to this informative [documentation](https://www.pentestpartners.com/security-blog/snmp-simply-not-my-problem-or-is-it/).
+
+## 🛡️ Exercises
+
+**RPC Protocol - IP: 10.12.1.4X**
+
+1. **With the RPC protocol, how many users can you find?**
+    - [ ] A. 5
+    - [ ] B. 10
+    - [ ] C. 15
+    - [ ] D. 20
+
+2. **What is the RID (Relative Identifier) of 'msfadmin'?**
+    - [ ] A. 500
+    - [ ] B. 1000
+    - [ ] C. 1500
+    - [ ] D. 2000
+
+3. **What is the path of 'msfadmin's profile?**
+    - [ ] A. /home/msfadmin
+    - [ ] B. /profile/msfadmin
+    - [ ] C. /var/users/msfadmin
+    - [ ] D. /opt/msfadmin/profile
+
+4. **When did 'msadmin' last change their password?**
+    - [ ] A. January 15, 2023
+    - [ ] B. March 5, 2023
+    - [ ] C. November 30, 2022
+    - [ ] D. April 10, 2023
+
+5. **When should 'msfadmin' change its password?**
+    - [ ] A. In 30 days
+    - [ ] B. In 60 days
+    - [ ] C. In 90 days
+    - [ ] D. In 120 days
+
+**SNMP Protocol - IP: 10.12.1.4X**
+
+6. **Explore SNMP on the same IP address (10.12.1.4X). Gather any relevant information using SNMP tools.**
+
+7. **Share any interesting findings or insights from your SNMP exploration.**
+
+**Answers:**
+1. [Answer: B. 10]
+2. [Answer: A. 500]
+3. [Answer: A. /home/msfadmin]
+4. [Answer: C. November 30, 2022]
+5. [Answer: B. In 60 days]
