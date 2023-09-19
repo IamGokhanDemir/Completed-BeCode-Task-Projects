@@ -1,0 +1,114 @@
+# 📂 Samba Enumeration
+
+## 🤖 What is a Samba Server?
+
+A Samba server is like a multilingual mediator in the world of computer systems. It allows different systems, often incompatible by nature, to talk to each other and share resources. Samba, licensed under the GNU General Public License, enables the implementation of the Server Message Block (SMB) protocol, also known as CIFS (Common Internet File System). Originally used in Windows LANs, SMB allows interaction with file servers, printers, and more.
+
+With Samba, systems running Windows, Linux, and Unix can seamlessly exchange data, share printers, and utilize various services. It doesn't matter if the server runs Linux or Unix, as modern Samba versions even support the role of Active Directory Domain Controllers, enabling centralized authorization and authentication for individual computers and users.
+
+👇 Here's a Samba-themed gif to lighten things up!
+![Samba GIF](https://media1.giphy.com/media/l0IpWimdziTLydf8Y/giphy.gif)
+
+## 📖 Learn More
+
+Before we dive into exercises, it's essential to read this documentation on SMB enumeration: [A Little Guide to SMB Enumeration](https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/).
+
+## 🏋️‍♂️ Exercises
+
+**Note**: Make sure you're connected to the VPN before attempting these exercises. All exercises should be done without authentication.
+
+**IP: 10.12.1.4x (First Server)**
+
+1. **What is the operating system of the server?**
+    > Your response 
+
+2. **What is the version of Samba running on the server?**
+    > Your response 
+
+3. **How many group names can you find using `nbtstat`?**
+    > Your response 
+
+4. **What is the Fully Qualified Domain Name (FQDN) of the server?**
+    > Your response 
+
+5. **What is the NetBIOS computer name of the server?**
+    > Your response 
+
+6. **How many disks are shared on the server?**
+    > Your response 
+
+7. **Which shared disk is available for both reading and writing?**
+    > Your response 
+
+8. **What flag did you discover when you logged in?**
+    > Your response 
+
+9. **What is the path that begins with `c:\` in this file?**
+    > Your response 
+
+10. **How many users can you find on this server?**
+    > Your response 
+
+**IP: 10.12.1.36 (Second Server)**
+
+11. **What is the version of the operating system on the second server?**
+    > Your response 
+
+12. **What is the version of Samba running on the second server?**
+    > Your response 
+
+13. **How many group names can you find using `nbtstat` on the second server?**
+    > Your response 
+
+14. **What is the Fully Qualified Domain Name (FQDN) of the second server?**
+    > Your response 
+
+15. **What is the NetBIOS computer name of the second server?**
+    > Your response 
+
+16. **How many disks are shared on the second server?**
+    > Your response 
+
+17. **Which shared disk is available for both reading and writing on the second server?**
+    > Your response 
+
+18. **What flag did you discover when you logged in to the second server?**
+    > Your response 
+
+19. **What is the path that begins with `c:\` in this file on the second server?**
+    > Your response 
+
+20. **How many users can you find on the second server?**
+    > Your response 
+
+Now, let's check your answers!
+
+## ✅ Answers
+
+**First Server (IP: 10.12.1.4x)**
+
+1. OS: *Your answer here*
+2. Samba Version: *Your answer here*
+3. Number of Group Names: *Your answer here*
+4. FQDN: *Your answer here*
+5. NetBIOS Computer Name: *Your answer here*
+6. Shared Disks: *Your answer here*
+7. Read-Write Disk: *Your answer here*
+8. Flag on Login: *Your answer here*
+9. `c:\` Path: *Your answer here*
+10. Number of Users: *Your answer here*
+
+**Second Server (IP: 10.12.1.36)**
+
+11. OS: *Your answer here*
+12. Samba Version: *Your answer here*
+13. Number of Group Names: *Your answer here*
+14. FQDN: *Your answer here*
+15. NetBIOS Computer Name: *Your answer here*
+16. Shared Disks: *Your answer here*
+17. Read-Write Disk: *Your answer here*
+18. Flag on Login: *Your answer here*
+19. `c:\` Path: *Your answer here*
+20. Number of Users: *Your answer here*
+
+Let's see how you did!
