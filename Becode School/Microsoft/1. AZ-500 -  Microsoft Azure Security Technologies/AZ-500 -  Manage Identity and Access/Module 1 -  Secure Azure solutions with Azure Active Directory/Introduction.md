@@ -1,7 +1,5 @@
 
 
-- 2 minutes
-
 Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employee's sign in and access resources in:
 
 - External resources, such as Microsoft 365, the Azure portal, and thousands of other SaaS applications.
