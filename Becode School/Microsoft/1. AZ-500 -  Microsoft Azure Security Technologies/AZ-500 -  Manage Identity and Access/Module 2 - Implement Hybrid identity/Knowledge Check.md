@@ -6,7 +6,7 @@ Let's go through the questions one by one:
    - Pass-through authentication
    - Password hash synchronization
 
-   **Answer:** Password hash synchronization
+   **Answer:** Password hash synchronization `This option just shares the password hash between two federated systems.`
 
 2. Which tool can you use to synchronize Microsoft Entra passwords with on-premises Active Directory?
 
@@ -14,7 +14,7 @@ Let's go through the questions one by one:
    - Active Directory Federation Services
    - Password writeback
 
-   **Answer:** Microsoft Entra Connect
+   **Answer:** Microsoft Entra Connect `Microsoft Entra Connect. Microsoft Entra Connect Sync is a main component of Microsoft Entra Connect. It takes care of all the operations that are related to synchronize identity data between your on-premises environment and Microsoft Entra ID.`
 
 3. Microsoft Entra ID supports which of the following security protocols?
 
