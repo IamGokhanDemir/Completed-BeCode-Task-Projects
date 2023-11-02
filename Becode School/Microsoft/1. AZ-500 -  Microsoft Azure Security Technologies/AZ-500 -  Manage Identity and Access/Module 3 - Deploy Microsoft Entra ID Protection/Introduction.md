@@ -1,33 +1,35 @@
-# Explore Microsoft Entra ID Protection
+# Introduction
 
-Identity Protection is a tool that allows organizations to accomplish three key tasks:
+Identity Protection is a tool that allows organizations to automate the detection and remediation of identity-based risks, investigate risks using data in the portal, and export risk detection data to third-party utilities for further analysis.
 
-- Automate the detection and remediation of identity-based risks.
-- Investigate risks using data in the portal.
-- Export risk detection data to third-party utilities for further analysis.
+## Scenario
 
-Identity Protection uses the learnings Microsoft has acquired from their position in organizations with Microsoft Entra ID, the consumer space with Microsoft Accounts, and in gaming with Xbox to protect your users. Microsoft analyzes 6.5 trillion signals per day to identify and protect customers from threats.
+A security engineer uses Microsoft Entra ID Protection to configure Azure features that monitor and protect identities in the tenant; you will work on such tasks as:
 
-Risk detections in Microsoft Entra ID Protection include any identified suspicious actions related to user accounts in the directory. The signals generated that are fed to Identity Protection, can be further fed into tools like Conditional Access to make access decisions, or fed back to a security information and event management (SIEM) tool for further investigation based on your organization's enforced policies.
+- Creating access reviews to check on how each identity is being used and that the correct rights are assigned.
+- Configure policies to identify risky user behaviors and odd sign-in patterns.
+- Control and manage access to resources with conditional access policies.
 
-Identity Protection provides organizations access to powerful resources so they can quickly respond to suspicious activities.
+## Skills measured
 
-## Identity Protection policies
+Microsoft Entra ID is a part of [Exam AZ-500: Microsoft Azure Security Engineer](https://learn.microsoft.com/en-us/certifications/exams/az-500).
 
-Microsoft Entra ID Protection includes three default policies that administrators can choose to enable. These policies include limited customization but are applicable to most organizations. All the policies allow for excluding users such as your emergency access or break-glass administrator accounts.
+Manage identity and access (30-35%)
 
-![Screenshot of the three policies described in the content.](https://learn.microsoft.com/en-us/training/wwl-azure/azure-ad-identity-protection/media/az500-identity-protection-2455a26b.png)
+- Configure secure access by using Azure and
+    - Configure Access Reviews
+    - Implement Conditional Access policies, including multi-factor authentication
+    - Configure Microsoft Entra ID Protection
 
-## Azure Multi-Factor Authentication registration policy
+## Learning objectives
 
-Identity Protection can help organizations roll out Azure Multi-Factor Authentication using a Conditional Access policy requiring registration at sign-in. Enabling this policy is a great way to ensure new users in your organization have registered for MFA on their first day. Multi-factor authentication is one of the self-remediation methods for risk events within Identity Protection. Self-remediation allows your users to act on their own to reduce helpdesk call volume.
+In this module, you will:
 
-## Sign-in risk policy
+- Deploy and configure Identity Protection
+- Configure multi-factor authentication for users, groups, and applications
+- Create Conditional Access policies to ensure your security
+- Create and follow an access review process
 
-Identity Protection analyzes signals from each sign-in, both real-time and offline, and calculates a risk score based on the probability that the sign-in wasn't performed by the user. Administrators can decide based on this risk score signal to enforce organizational requirements. Administrators can choose to block access, allow access, or allow access but require multi-factor authentication.
+## Prerequisites
 
-If risk is detected, users can perform multi-factor authentication to self-remediate and close the risky sign-in event to prevent unnecessary noise for administrators.
-
-## Custom Conditional Access policy
-
-Administrators can also choose to create a custom Conditional Access policy, including sign-in risk as an assignment condition.
+None
