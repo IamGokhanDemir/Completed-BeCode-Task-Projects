@@ -1,4 +1,4 @@
-= List of commands
+== List of commands
 
 This file contains a list of useful commands on Linux. The descriptions down below are far from complete, they are only here to give an idea of the use case. Plus, there are many more commands and terminal tools out there for all sorts of needs, feel free to research.
 
